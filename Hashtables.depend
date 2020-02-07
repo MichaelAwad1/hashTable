@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1525302454 source:d:\c projects\hashtables\linearprobing.c
+	<stdio.h>
+	<stdlib.h>
+	"linearProbing.h"
+
+1525304899 d:\c projects\hashtables\linearprobing.h
+
+1525427070 source:d:\c projects\hashtables\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hashtable.h"
+	"Utility.h"
+	"Mainmenu.h"
+
+1525311590 d:\c projects\hashtables\utility.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+
+1525425137 d:\c projects\hashtables\mainmenu.h
+	"hashtable.h"
+
+1525425586 source:d:\c projects\hashtables\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	"hashtable.h"
+	"Mainmenu.h"
+	"Utility.h"
+
+1525300884 source:d:\c projects\hashtables\utility.c
+	"Utility.h"
+
+1525302237 d:\c projects\hashtables\separatechaining.h
+	"linearProbing.h"
+
+1525427056 source:d:\c projects\hashtables\hashtable.c
+	<stdio.h>
+	<stdlib.h>
+	"Hashtable.h"
+
+1525419405 d:\c projects\hashtables\hashtable.h
+
